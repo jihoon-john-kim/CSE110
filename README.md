@@ -1,2 +1,2 @@
 # CSE110
-Ji Hoon's User Page
+Ji Hoon, Kim's User Page
