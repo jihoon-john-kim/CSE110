@@ -25,7 +25,7 @@ Ji Hoon Kim said, ~~"I like coding."~~
 
 ### I definitely went to `learn to surf`, but why did I get `flying skills`?
 ![This is a temporary image](https://github.com/jihoon-john-kim/CSE110/blob/new-branch/aviation.jpg)
-[View in a new window](https://github.com/jihoon-john-kim/CSE110/blob/new-branch/aviation.jpg)
+[Move to photo page](https://github.com/jihoon-john-kim/CSE110/blob/new-branch/aviation.jpg)
 
 ---
 <br/>
